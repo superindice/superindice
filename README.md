@@ -14,7 +14,7 @@ I'm passionate about [your interests or field, e.g., software engineering, data 
 
 ## 🛠️ Languages & Tools
 
-![Languages](https://skillicons.dev/icons?i=python,js,css,html,java,cpp,bash,ps&theme=light)  
+![Languages](https://skillicons.dev/icons?i=python,js,css,html,java,cpp,bash,powershell&theme=light)  
 <!-- Add or remove icons as needed; see all at https://skillicons.dev -->
 
 ---

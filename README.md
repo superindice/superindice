@@ -1,7 +1,7 @@
 # 👋 Hi, I'm superindice!
 
 Welcome to my GitHub profile!  
-I'm passionate about [your interests or field, e.g., software engineering, data science, open-source, etc.], and I love building, learning, and sharing projects with the community.
+I'm passionate about python and coding, and I love building, learning, and sharing projects with the community.
 
 ---
 
